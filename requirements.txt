@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+dvc
+mlflow
+feast
+opencv-python
+tqdm
+matplotlib
+numpy
